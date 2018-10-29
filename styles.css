@@ -1,0 +1,20 @@
+img {
+    height: 350px;
+    border-style: dashed;
+    border-color: purple;
+}
+h1 {
+    font-family: 'Lobster', cursive;
+    transition: 400ms ease;
+}
+h1:hover{
+    color:lightpink;
+}
+body {
+    font-family: 'Quicksand', sans-serif;
+    background: url("https://pre00.deviantart.net/594a/th/pre/i/2010/164/d/2/heart_custom_background_by_arthurroyalknight.png") fixed center;
+}
+li {
+    color:purple;
+}
+
